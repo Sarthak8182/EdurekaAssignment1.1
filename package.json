@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "express": "^4.18.1",
+    "yargs": "^17.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "dev-server": "nodemon server.mjs"
+  },
+  "name": "edureka-nodejs-demo",
+  "version": "0.0.1",
+  "description": "NodeJs learning",
+  "main": "server.mjs",
+  "author": "Sarthak",
+  "license": "MIT"
+}
